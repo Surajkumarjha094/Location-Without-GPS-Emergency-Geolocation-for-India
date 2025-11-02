@@ -1,0 +1,9 @@
+[
+  { "id": "1", "name": "City General Hospital", "type": "hospital", "lat": 28.6139, "lng": 77.209, "area": "Central" },
+  { "id": "2", "name": "Mahatma Vidyalaya", "type": "school", "lat": 28.6205, "lng": 77.214, "area": "North" },
+  { "id": "3", "name": "Metro Station Gate A", "type": "metro", "lat": 28.611, "lng": 77.221, "area": "Central" },
+  { "id": "4", "name": "Old City Police Station", "type": "police", "lat": 28.6165, "lng": 77.2005, "area": "West" },
+  { "id": "5", "name": "Town Hall", "type": "landmark", "lat": 28.62, "lng": 77.205, "area": "Central" },
+  { "id": "6", "name": "Community Clinic", "type": "hospital", "lat": 28.625, "lng": 77.199, "area": "West" },
+  { "id": "7", "name": "Greenfield Public School", "type": "school", "lat": 28.6075, "lng": 77.2125, "area": "South" }
+]
